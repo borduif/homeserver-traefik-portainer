@@ -19,7 +19,7 @@ services:
       - "--certificatesResolvers.myresolver.acme.email=${ACME_EMAIL}"
       # Let's Encrypt has a limit: 5 certs generated a week. Use staging when breaking things.
       # see https://doc.traefik.io/traefik/https/acme/#caserver
-      #- "--certificatesResolvers.myresolver.acme.caserver=https://acme-staging-v02.api.letsencrypt.org/directory"
+      - "--certificatesResolvers.myresolver.acme.caserver=https://acme-staging-v02.api.letsencrypt.org/directory"
       - "--certificatesResolvers.myresolver.acme.dnsChallenge=true"
       - "--certificatesResolvers.myresolver.acme.dnschallenge.provider=${DNS_CHALLENGE_PROVIDER}"
       - "--certificatesResolvers.myresolver.acme.dnschallenge.resolvers=8.8.4.4:53,8.8.8.8:53"
