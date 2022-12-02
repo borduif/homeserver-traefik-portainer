@@ -32,7 +32,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/nextcloud/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -50,7 +50,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/cyberchef/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -68,7 +68,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/cadvisor/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -86,7 +86,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/gogs/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -104,7 +104,7 @@
             "logo": "https://raw.githubusercontent.com/tomwojcik/homeserver-traefik-portainer/ffcc9ee7aed06102d724e45850b24ad8d9f80bde/stacks/uptime-kuma/logo.png",
             "repository": {
                 "stackfile": "stacks/uptime-kuma/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -122,7 +122,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/pypiserver/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -157,7 +157,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/traefik/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -182,7 +182,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/n8n/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -200,7 +200,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/registry/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -226,7 +226,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/minio/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -244,7 +244,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/dozzle/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -262,7 +262,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/cloudflared/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         },
         {
@@ -280,7 +280,7 @@
             "platform": "linux",
             "repository": {
                 "stackfile": "stacks/heimdall/docker-compose.yml",
-                "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+                "url": "https://github.com/borduif/homeserver-traefik-portainer"
             }
         }
     ]
