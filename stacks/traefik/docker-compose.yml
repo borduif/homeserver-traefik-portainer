@@ -37,7 +37,8 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
       - traefik-letsencrypt:/letsencrypt
     environment:
-      - CF_DNS_API_TOKEN=${CF_DNS_API_TOKEN}
+      - GODADDY_API_KEY=${GODADDY_API_KEY}
+      - GODADDY_API_SECRET=${GODADDY_API_SECRET}
     labels:
       my.zone: homeserver
       traefik.enable: true
