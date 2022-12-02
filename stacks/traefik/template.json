@@ -30,6 +30,6 @@
   "platform": "linux",
   "repository": {
     "stackfile": "stacks/traefik/docker-compose.yml",
-    "url": "https://github.com/tomwojcik/homeserver-traefik-portainer"
+    "url": "https://github.com/borduif/homeserver-traefik-portainer"
   }
 }
