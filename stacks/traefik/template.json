@@ -17,8 +17,12 @@
       "name": "DNS_CHALLENGE_PROVIDER"
     },
     {
-      "label": "CF_DNS_API_TOKEN",
-      "name": "CF_DNS_API_TOKEN"
+      "label": "GODADDY_API_KEY",
+      "name": "GODADDY_API_KEY"
+    },
+    {
+      "label": "GODADDY_API_SECRET",
+      "name": "GODADDY_API_SECRET"
     }
   ],
   "note": "First you will need a domain.",
